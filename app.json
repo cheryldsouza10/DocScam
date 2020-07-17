@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "sharing",
+    "slug": "snack-cdd72ba0-aa97-4035-a00c-d9a8c3cb4681",
+    "version": "1.0.0",
+    "sdkVersion": "38.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.yourcompany.yourappname"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
