@@ -6,7 +6,6 @@ import * as Print from 'expo-print';
 import * as Permissions from 'expo-permissions';
 
 
-
 export default function App() {
   let [selectedImage, setSelectedImage] = React.useState(null);
 
